@@ -1,3 +1,4 @@
 - RQs folder contains CSVs containing image data, as well as image data classification tools.
 - BDT folder contains scripts for constructing and running boosted decision trees, as well as constructed models.
 - CNN folder contains scripts for constructing and running convolutional neural networks, as well as constructed models.
+- Thesis folder contains the typeset documentation for the project.
